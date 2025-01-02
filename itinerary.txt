@@ -1,0 +1,16 @@
+Itinerary for User: gherbi
+Total Price: 2340 USD
+
+Flights:
+Flight: Midwest Wings from Chicago to Miami on 2025-01-10 09:30:00.0 and arrival date 2025-01-10 13:00:00.0 with price 150.00 USD
+Flight: Pacific Horizon from San Francisco to Seattle on 2025-01-15 12:00:00.0 and arrival date 2025-01-15 14:00:00.0 with price 100.00 USD
+Flight: Mountain Air from Phoenix to Portland on 2025-01-25 14:00:00.0 and arrival date 2025-01-25 16:00:00.0 with price 120.00 USD
+
+Hotels:
+Hotel: The Grand NYC from 2025-01-05 15:00:00.0 to 2025-01-10 12:00:00.0 with room type Deluxe for 2 guests with price 500.00 USD
+Hotel: Highland Retreat from 2025-01-21 13:00:00.0 to 2025-01-25 12:00:00.0 with room type Luxury for 3 guests with price 1200.00 USD
+
+Activities:
+Activity: Boat Ride on 2025-01-22 14:00:00.0 at Orlando for 120 hours with price 80.00 USD
+Activity: Concert on 2025-01-27 20:00:00.0 at Las Vegas for 180 hours with price 120.00 USD
+Activity: Food Tour on 2025-02-02 11:00:00.0 at Dallas for 210 hours with price 70.00 USD

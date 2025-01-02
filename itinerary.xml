@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<itinerary>
+    <user>gherbi</user>
+    <total_price>2340</total_price>
+    <flights>
+        <flight>
+            <flight_id>2</flight_id>
+            <airline_name>Midwest Wings</airline_name>
+            <flight_number>MW456</flight_number>
+            <departure_city>Chicago</departure_city>
+            <destination_city>Miami</destination_city>
+            <departure_date>2025-01-10 09:30:00.0</departure_date>
+            <arrival_date>2025-01-10 13:00:00.0</arrival_date>
+            <price>150.00</price>
+        </flight>
+        <flight>
+            <flight_id>3</flight_id>
+            <airline_name>Pacific Horizon</airline_name>
+            <flight_number>PH789</flight_number>
+            <departure_city>San Francisco</departure_city>
+            <destination_city>Seattle</destination_city>
+            <departure_date>2025-01-15 12:00:00.0</departure_date>
+            <arrival_date>2025-01-15 14:00:00.0</arrival_date>
+            <price>100.00</price>
+        </flight>
+        <flight>
+            <flight_id>7</flight_id>
+            <airline_name>Mountain Air</airline_name>
+            <flight_number>MA456</flight_number>
+            <departure_city>Phoenix</departure_city>
+            <destination_city>Portland</destination_city>
+            <departure_date>2025-01-25 14:00:00.0</departure_date>
+            <arrival_date>2025-01-25 16:00:00.0</arrival_date>
+            <price>120.00</price>
+        </flight>
+    </flights>
+    <hotels>
+        <hotel>
+            <hotel_id>1</hotel_id>
+            <hotel_name>The Grand NYC</hotel_name>
+            <check_in_date>2025-01-05 15:00:00.0</check_in_date>
+            <check_out_date>2025-01-10 12:00:00.0</check_out_date>
+            <room_type>Deluxe</room_type>
+            <number_of_guests>2</number_of_guests>
+            <price>500.00</price>
+        </hotel>
+        <hotel>
+            <hotel_id>4</hotel_id>
+            <hotel_name>Highland Retreat</hotel_name>
+            <check_in_date>2025-01-21 13:00:00.0</check_in_date>
+            <check_out_date>2025-01-25 12:00:00.0</check_out_date>
+            <room_type>Luxury</room_type>
+            <number_of_guests>3</number_of_guests>
+            <price>1200.00</price>
+        </hotel>
+    </hotels>
+    <activities>
+        <activity>
+            <activity_id>4</activity_id>
+            <activity_name>Boat Ride</activity_name>
+            <activity_date>2025-01-22 14:00:00.0</activity_date>
+            <location>Orlando</location>
+            <duration>120</duration>
+            <price>80.00</price>
+        </activity>
+        <activity>
+            <activity_id>5</activity_id>
+            <activity_name>Concert</activity_name>
+            <activity_date>2025-01-27 20:00:00.0</activity_date>
+            <location>Las Vegas</location>
+            <duration>180</duration>
+            <price>120.00</price>
+        </activity>
+        <activity>
+            <activity_id>6</activity_id>
+            <activity_name>Food Tour</activity_name>
+            <activity_date>2025-02-02 11:00:00.0</activity_date>
+            <location>Dallas</location>
+            <duration>210</duration>
+            <price>70.00</price>
+        </activity>
+    </activities>
+</itinerary>
